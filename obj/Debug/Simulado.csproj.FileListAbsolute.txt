@@ -1,0 +1,8 @@
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C# - Devs2Blu\Simulado\bin\Debug\Simulado.exe.config
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C# - Devs2Blu\Simulado\bin\Debug\Simulado.exe
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C# - Devs2Blu\Simulado\bin\Debug\Simulado.pdb
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C# - Devs2Blu\Simulado\obj\Debug\Simulado.csproj.AssemblyReference.cache
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C# - Devs2Blu\Simulado\obj\Debug\Simulado.csproj.SuggestedBindingRedirects.cache
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C# - Devs2Blu\Simulado\obj\Debug\Simulado.csproj.CoreCompileInputs.cache
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C# - Devs2Blu\Simulado\obj\Debug\Simulado.exe
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C# - Devs2Blu\Simulado\obj\Debug\Simulado.pdb
